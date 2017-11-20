@@ -1,4 +1,4 @@
-2017-11-10
+﻿2017-11-10
 
 Prozessor - Aufbau, Marktistuation, Unterschiede
 
@@ -54,4 +54,10 @@ L3: Bei den Topmodellen von Intel umd AMD; gemeinsam von allen Kernen genutzt; g
 
 -> Fotolithographie:
 
-Die Fotolithografie (auch Photolithographie) ist eine der zentralen Methoden der Halbleiter- und Mikrosystemtechnik zur Herstellung von integrierten Schaltungen und weiteren Produkten. Dabei wird mittels der Belichtung das Bild einer Fotomaske auf einen lichtempfindlichen Fotolack übertragen. Anschließend werden die belichteten Stellen des Fotolacks aufgelöst (alternativ ist auch die Auflösung der unbelichteten Stellen möglich, wenn der Fotolack unter Licht aushärtet). So entsteht eine lithografische Maske, die die weitere Bearbeitung durch chemische und physikalische Prozesse ermöglicht, etwa das Einbringen von Material in die offenen Fenster oder das Ätzen von Vertiefungen unter den offenen Fenstern.
+Die Fotolithografie (auch Photolithographie) ist eine der zentralen Methoden der Halbleiter- und Mikrosystemtechnik zur Herstellung von integrierten Schaltungen und weiteren Produkten. 
+Dabei wird mittels der Belichtung das Bild einer Fotomaske auf einen lichtempfindlichen Fotolack übertragen. Anschließend werden die belichteten Stellen des Fotolacks aufgelöst (alternativ ist auch die Auflösung der unbelichteten Stellen möglich, 
+wenn der Fotolack unter Licht aushärtet). So entsteht eine lithografische Maske, die die weitere Bearbeitung durch chemische und physikalische Prozesse ermöglicht, etwa das Einbringen von Material in die offenen Fenster oder das Ätzen von Vertiefungen unter den offenen Fenstern.
+
+-> Was sind FLOPS?
+
+Flops: Floating Point Operations Per Second, Leistungsmerkmal von Prozessoren, wie viele Gleitkommazahl-Operationen (Additionen/Multiplikationen) können pro Sekunde durchgeführt werden?
